@@ -4,7 +4,7 @@ public class Prototype1 implements IPrototype {
 
 	
 	@Override
-	public Object clone() throws CloneNotSupportedException {
+	public Object Clone() throws CloneNotSupportedException {
 		Object obj = null;
 		try {
 			obj = super.clone();

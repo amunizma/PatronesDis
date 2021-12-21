@@ -7,6 +7,6 @@ public class Director {
 	}
 	
 	public void Director(Builder builder) {
-		System.out.println("construirObjeto");
+		System.out.println("Director");
 	}
 }
